@@ -17,7 +17,7 @@ I am using a Gradient Boosting Regressor model, which gave me the best results w
 My hyperparameters were: n_estimators, max_depth, min_samples_split, min_samples_leaf, max_features, subsample and loss. I performed hyperparameter optimisation using Optuna.
 
 ## RESULTS
-I was able to achieve a RMSE of 0.577 which was not far away from the top RMSE of 0.570 on the public Kaggle leaderboard at the time of writing. Note also that I only spent two weeks on the model, whereas the competition had been running for almost three months. 
+I was able to achieve a RMSE of 0.595 on the test set. The top RMSE on the public Kaggle leaderboard was 0.570 at the time of writing; certainly room for improvement but promising that the model got below the 0.6 mark. Note also that I only was able to spend two weeks on the model, whereas the competition had been running for almost three months - with more time I could have doubtlessly further refined the model. 
 
 I include a graph of the actual scores versus the model's predicted scores:
 
