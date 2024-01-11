@@ -17,7 +17,7 @@ The model was trained on 80% of the available dataset and tested on the remainin
 
 ## Limitations
 
-The model requires the keystroke logs to be available in a certain format (that of the training logs provided), which is unlikely to always be the case. Furthermore, it requires substantial feature engineering of the original data. Additionally, since the feature engineering and training was based on the typing activities logged in the training dataset, the model is not particularly robust to unseen events. It should certainly not be used for anything more than very general prediction and certainly not for the actual marking of typed essays.
+The model requires the keystroke logs to be available in a certain format (that of the training logs provided), which is unlikely to always be the case. Furthermore, it requires substantial feature engineering of the original data. Since the feature engineering and training were based on the specific typing activities logged in the training dataset, the model is not particularly robust to unseen events. Another inherent bias to be aware of is that one of the specific rules of the writing task that was used to collect the training data was that participants should write an essay of at least 200 words in 3 paragraphs. Hence, the model may not be generalisable to essays of different lengths. It should certainly not be used for anything more than very general prediction and certainly not for the actual marking of typed essays.
 
 ## Trade-offs
 
