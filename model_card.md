@@ -21,6 +21,6 @@ The model requires the keystroke logs to be available in a certain format (that 
 
 ## Trade-offs
 
-The model performs solidly in the mid-range but tends to overpredict scores at the very bottom of the range and underpredict scores at the very top, as we can see from the following graph:
+The model performs solidly in the mid-range but tends to overpredict scores at the bottom of the range and underpredict scores at the top, as we can see from the following graph:
 
 ![Graph](Writing_quality_predictor.png)
