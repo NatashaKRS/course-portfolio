@@ -81,9 +81,7 @@ As mentioned above, the essay task itself took 30 mins, however it is not clear 
 
 If the results were compelling enough, one could in theory expand the scope of the the model suggested by the Kaggle competition and use the dataset to build a model that actually automatically marks essays based on their typing logs. 
 
-- Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? 
-
-No
+- Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? No
 
 - Are there tasks for which the dataset should not be used? If so, please provide a description.
 
