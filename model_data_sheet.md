@@ -8,7 +8,7 @@
 The dataset was created for the purpose of the Kaggle competition titled 'Linking Writing Processes to Writing Quality', sponsored by the The Learning Agency Lab. 
 - Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?
 
-The dataset was created on behalf of competition host Vanderbilt University, a private research university in Nashville, Tennessee together with ​The Learning Agency Lab, an independent nonprofit based in Arizona. The funding of the dataset and competition was additionally supported by the Bill & Melinda Gates Foundation, Schmidt Futures, and Chan Zuckerberg Initiative.
+The dataset was created on behalf of competition host Vanderbilt University, a private research university in Nashville, Tennessee, together with ​The Learning Agency Lab, an independent nonprofit based in Arizona. The funding of the dataset and competition was additionally supported by the Bill & Melinda Gates Foundation, Schmidt Futures, and Chan Zuckerberg Initiative.
 
  
 ## Composition
@@ -67,7 +67,7 @@ Participants of this project were hired from Amazon Mechanical Turk, a crowdsour
 
 - Over what time frame was the data collected?
 
-As mentioned above, the essay task itself took 30 mins, however it is not clear over what timeframe the various essay data was collected. 
+As mentioned above, the essay task itself took 30 mins, however it is not clear over what time frame the various essay data was collected. 
 
 ## Preprocessing/cleaning/labelling
 
@@ -79,13 +79,13 @@ As mentioned above, the essay task itself took 30 mins, however it is not clear 
 
 - What other tasks could the dataset be used for? 
 
-If the results were compelling enough, one could in theory expand the scope of the the model suggested by the Kaggle competition and use the dataset to build a model that actually automatically marks essays based on their typing logs. 
+If the results were compelling enough, one could in theory expand the scope of the model suggested by the Kaggle competition and use the dataset to build a model that actually automatically marks essays based on their typing logs. 
 
 - Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a dataset consumer might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other risks or harms (e.g., legal risks, financial harms)? If so, please provide a description. Is there anything a dataset consumer could do to mitigate these risks or harms? No
 
 - Are there tasks for which the dataset should not be used? If so, please provide a description.
 
-It would be dangerous to use this dataset to build anything other than a general predictive tool, i.e. to build a model as discussed above that would actually provide an official mark for essays in a course or exam setting.
+It would be inappropriate to use this dataset to build anything other than a general predictive tool, i.e. to build a model as discussed above that would actually provide an official mark for essays in a course or exam setting.
 
 ## Distribution
 
