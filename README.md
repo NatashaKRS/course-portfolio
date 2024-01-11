@@ -20,4 +20,4 @@ My hyperparameters were: n_estimators, max_depth, min_samples_split, min_samples
 I was able to achieve a RMSE of 0.577 which was not far away from the top RMSE of 0.570 on the Kaggle leaderboard at the time of writing. Note also that I only spent two weeks on the model, whereas the competition had been running for almost three months. 
 
 You can include images of plots using the code below:
-![Graph](Writing quality predictor.png)
+![Graph](Writing_quality_predictor.png)
