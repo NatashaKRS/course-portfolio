@@ -5,7 +5,7 @@ Portfolio Project
 Predicting writing quality from typing behaviour
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
-This project is based on a Kaggle competition which ended on 9th January 2024 and aims to build a model that can effectively predict writing quality, or more specifically scores of essays, based on their typing logs. The basis of this is a large dataset of essay keystroke logs that have captured writing process features, along with the accompanuing scores. We proceed to extrapolate a large additional number of features that relate to the typing process and then use a selection of these features to train a model that outputs scores on a scale of 0 - 6 with the maximum possible accuracy when fed with keystroke logs of essays.
+This project is based on a Kaggle competition which ended on 9th January 2024 and aims to build a model that can effectively predict writing quality, or more specifically scores of essays, based on their typing logs. The basis of this is a large dataset of essay keystroke logs that have captured writing process features, along with the accompanying scores. We proceed to extrapolate a large additional number of features that relate to the typing process and then use a selection of these features to train a model that outputs scores on a scale of 0 - 6 with the maximum possible accuracy when fed with keystroke logs of essays.
 
 ## DATA
 The competition training dataset comprises about 5000 logs of user inputs, such as keystrokes and mouse clicks, taken during the composition of an essay. Each essay was scored on a scale of 0 to 6. It can be found here: https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data
