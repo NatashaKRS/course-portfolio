@@ -21,4 +21,4 @@ I was able to achieve a RMSE of 0.595 on the test set. The top RMSE on the publi
 
 I include a graph of the actual scores versus the model's predicted scores:
 
-![Graph](Writing_quality_predictor.png)
+![Graph](Score_prediction_graph.png)
