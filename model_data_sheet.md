@@ -51,7 +51,7 @@ The instances in the train_scores.csv dataset have the features id and score.
  
 - How many instances of each type are there? 
 
-There are 8405898 instances of keystroke logs.
+There are 8405898 instances of keystroke logs, representing a total of 2471 essays.
 
 - Is there any missing data? No
 
