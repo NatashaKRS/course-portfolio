@@ -2,10 +2,10 @@
 
 ## Model Description
 
-**Input:** Describe the inputs of your model 
+**Input:** 
 The inputs are logs of user inputs, such as keystrokes and mouse clicks, taken during the composition of an essay.
 
-**Output:** Describe the output(s) of your model
+**Output:**
 The outputs are the corresponding essay scores, scored on a scale of 0 to 6.
 
 **Model Architecture:** 
@@ -23,4 +23,4 @@ The model requires the keystroke logs to be available in a certain format (that 
 
 The model performs solidly in the mid-range but tends to overpredict scores at the very bottom of the range and underpredict scores at the very top, as we can see from the following graph:
 
-
+![Graph](Writing_quality_predictor.png)
